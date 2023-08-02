@@ -1,7 +1,6 @@
 // Fibonacci Series using Space Optimized Method
 #include <bits/stdc++.h>
 using namespace std;
-
 int fib(int n)
 {
 	int a = 0, b = 1, c, i;
@@ -14,7 +13,6 @@ int fib(int n)
 	}
 	return b;
 }
-
 // Driver code
 int main()
 {
